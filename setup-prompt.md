@@ -1,4 +1,4 @@
-# Setup prompt
+# The Grok Bot import
 
 A Grok Bot can create other Bots, group chats and routines from its chat. My Chief of Staff created new Bots and the Content Room for me that way. This prompt uses it to build the whole team in 1 go.
 

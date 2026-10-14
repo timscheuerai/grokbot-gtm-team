@@ -4,11 +4,11 @@
 
 [![The Grok Bot GTM team](assets/grokbot-gtm-team.gif)](assets/grokbot-gtm-team@2x.png)
 
-On 2026-09-23 I posted that I don't get the Grok Bot hype. Then I stopped asking it to do the work and let it run the team instead. Every Bot has 1 job, the department heads route and gate, and anything that needs building goes to Claude Code or Codex with the skills I already have there. This is that team, cleaned up so you can run it yourself.
+On 2026-09-23 I posted that I don't get the Grok Bot hype. Then I stopped asking it to do the work and let it run the team instead. Every Bot has 1 job, the department heads route and gate, and anything that needs building goes to Claude Code or Codex with the skills I already have there. This is that team as a Grok Bot import: paste 1 prompt and the whole team is there, with their roles and rules.
 
-**[Set it up in 1 prompt →](setup-prompt.md)** · [The 13 Bots](#the-team) · [The rules](guides/rules.md) · [Claude Code and Codex](guides/claude-code-and-codex.md)
+**[Import the team in 1 prompt →](setup-prompt.md)** · [The 13 Bots](#the-team) · [The rules](guides/rules.md) · [Claude Code and Codex](guides/claude-code-and-codex.md)
 
-## Set it up
+## Import the team
 
 1. Create a new Bot in Grok Bot and call it **Chief of Staff**.
 2. Paste the prompt from **[setup-prompt.md](setup-prompt.md)** into its chat.
